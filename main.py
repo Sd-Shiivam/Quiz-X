@@ -1,3 +1,9 @@
+#----------------------------------
+#----------------------------------
+#   PROJECT QUIZ-X START
+#   AUTHOR:- SHIVAM SINGH
+#----------------------------------
+#----------------------------------
 import pygame
 from tkinter import *# Import tkinter
 import time        # Import tkk for special elements
